@@ -1,14 +1,10 @@
 # Comp 271 Assignment One Preview: Search Algorithms
 
-## Due date: November 5, 2025, 6:00pm
+## Due date: March 25, 2026, 6:00pm
 
-### Step One - Fork the repository to your own GitHub space and clone your forked repository - 5 points
+### Step One - Clone your repository - 5 points
 
-First, click the "Fork" button in the upper right-hand corner of the GitHub view.  This will
-create a **fork** of this repository in your personal GitHub space.
-
-Second, clone your forked repository.  **Do not clone the original repository!!**  Clone the repository
-that you find in your personal space in GitHub.
+First, clone the repository that will be shared in class.
 
 ### Step Two - Implement each sorting algorithm - 60 points
 
@@ -19,6 +15,8 @@ In class we have studied three sorting algorithms:
 
 You are given a partially-built Java application, with tests and code to run each of these three sorting 
 algorithms.  Your first assignment is to complete the code to implement each algorithm.
+
+You will know that you have completed the assignment when the tests all pass.
 
 ### Step Three - Analyze the running time of each algorithm - 15 points
 
