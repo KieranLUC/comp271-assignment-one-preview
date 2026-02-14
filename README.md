@@ -34,5 +34,4 @@ Description
 ### Deliverable (Total of 75 pts):
 
 * Commit and push your code
-* Raise a Pull Request
-* Submit a link to your Pull Request in Sakai
+* Raise a Pull Request in GitHub
